@@ -1,7 +1,9 @@
 package juc;
 
-public class Test {
+
+
+public class test {
     public static void main(String[] args) {
-        System.out.println("master333333");
+        System.out.println("test 1111");
     }
 }
