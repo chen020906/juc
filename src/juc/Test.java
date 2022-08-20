@@ -11,5 +11,6 @@ public class Test {
         System.out.println("git-test 444");
         System.out.println("main 555");
         System.out.println("main 666");
+        System.out.println("main 777");
     }
 }
