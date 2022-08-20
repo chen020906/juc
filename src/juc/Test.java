@@ -7,5 +7,6 @@ public class Test {
         System.out.println("test 1111");
         System.out.println("git-test 222");
         System.out.println("git-test 333");
+        System.out.println("main 444");
     }
 }
